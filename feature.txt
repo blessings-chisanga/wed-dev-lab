@@ -1,0 +1,5 @@
+What I have Learned in this lab
+This lab has taught me a lot that i will continue to use, I have learnt;
+->git is distributed a version control system that makes it easy to collaborate with other developers and manage a project as it grown and changes.
+->I have learnt how to initialize a local repository, commit changes and push to a remote repository branch of choice
+->I have learnt how to submit a pull request and have other people review the code I want to add to the repositoy before it is added to the main branch.
